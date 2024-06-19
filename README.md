@@ -1,2 +1,4 @@
 # 我らしょいみんチーム
-# feature ブランチ
+# feature/imai ブランチ
+# developにpushする
+# もう一回レビューして
