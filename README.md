@@ -1,2 +1,5 @@
 # 我らしょいみんチーム
-# feature ブランチ
+# feature/imai ブランチ
+# developにpushする
+# もう一回レビュー
+# 勝手にマージされた？
